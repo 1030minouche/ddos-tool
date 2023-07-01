@@ -11,13 +11,11 @@
 <br><br>
 <p align="center">
 <strong>
-Brute is the best (imo) L4 DoS tool in Python3.
+Outil d'attaque ddos
 <br><br>
-It will flood the victim's router with UDP packets, so even if there are no ports opened,
+L'outil encombre le rooter du défenseur avec des requetes UDP
 <br>
-the router will still be overwhelmed and slowed down.
-<br><br>
-Brute allows you to DoS Fivem, Minecraft, or even normal servers.
+il sera ralenti.
 <br>
 But it can also down a simple family network.
 <br><br><br>
